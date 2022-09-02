@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @furkanb7 
 - 🌱 I’m currently looking to learn more about front-end development 
 - 💞️ I’m open and willing to collaborate on any project that requires an extra hand! 
-- 📫 How to reach me: linkedin: Furkan Baydemir, Email: furkanbaydemir@hotmail.com
+- 📫 How to reach me: linkedin: Furkan Baydemir, Email: Furkanbaydemir@hotmail.com
